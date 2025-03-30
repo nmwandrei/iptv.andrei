@@ -1,23 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Antena_1_Logo_%282022-present%29.svg/1200px-Antena_1_Logo_%282022-present%29.svg.png" group-title="",ANTENA 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ANTENA 1 HD
 https://p13.magicplaces.eu/antena1/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=d3f82b0ccfc0cfe62cc9f2748ac0c7a77bb6ea41-a997ef17259dd9dc18f3fce874ab8c18-1743297687-1743286887
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1200px-Logo_Pro_TV_%282017%29.svg.png" group-title="",PRO TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",PRO TV HD
 https://p9.magicplaces.eu/protv/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=014e983d9aa93398931fe42bcfa094377f41a79c-58a5e85c39e91d556302f8023f900843-1743297792-1743286992
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Logo_KanalD.svg/1200px-Logo_KanalD.svg.png" group-title="",KANAL D HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",KANAL D HD
 https://p11.magicplaces.eu/kanald/video.m3u8?token=bc8455d7c7330fd22f8e3d9e020f4869aefd81eb-570f0663934f67be354c976133f07a1a-1743297865-1743287065&remote=no_check_ip
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdr59YwVF7fJ6BYocfW3WG34IJUzdS31qWjc0tKJTStA&s" group-title="",PRIMA TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",PRIMA TV HD
 https://p11.magicplaces.eu/prima/video.m3u8?token=0037eb89755af5ee53d43bd47317039dd765d220-d63ea7507bb63f5cd088227981895db8-1743298042-1743287242&remote=no_check_ip
-#EXTINF:-1 tvg-id="" tvg-logo="data:image/png;base64,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" group-title="",HBO HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",HBO HD
 https://p11.magicplaces.eu/hbohd/video.m3u8?token=9b222a5326af5ab1606b11e2c50541c9a259ac1c-e9c3d2cfc4139d171effe673fc7221ee-1743298138-1743287338&remote=no_check_ip
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="",HBO 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",HBO 2HD
 https://p11.magicplaces.eu/hbo2sd/video.m3u8?token=51009436e5b5da57a507c115ed87978ef04dc848-374ed4ee714665b0a3f3aedf7125eb43-1743298241-1743287441&remote=no_check_ip
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/61/HBO_3_2016.png/revision/latest?cb=20190801115340" group-title="",HBO 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",HBO 3HD
 https://p11.magicplaces.eu/hbo3sd/video.m3u8?token=be1f55e0b12c5e1e07da1ce89fbe42c0865320b1-6ba62f9bd4a8851019497c25cd9a9006-1743298337-1743287537&remote=no_check_ip
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="",CINEMAX HD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cinemax HD
 https://p11.magicplaces.eu/cinemaxhd/video.m3u8?token=ee094e35620a0f936a1a956fca25f8c03670802b-708eed1209f67445be7844c1b7b88421-1743298459-1743287659&remote=no_check_ip
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Cinemax_2_%282016%29.png" group-title="",CINEMAX 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cinemax 2 HD
 https://p11.magicplaces.eu/cinemax2sd/video.m3u8?token=bf0f2f41ba024c5318f67e53dd43d98a900db9aa-41cccf60c4edf30e1f7bd1953f04b763-1743298584-1743287784&remote=no_check_ip
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wirtualnemedia.pl/media/top/BollywoodHD_logo2018_655.png" group-title="",BOLLYWOOD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Bollywood HD
 https://p11.magicplaces.eu/bollywoodtv/video.m3u8?token=c3f4556b0ca9c4aa8b58c1f5b3f66ceeb90f4002-a3b1c517c8e940b5c5f13e3f7beb1d5d-1743298669-1743287869&remote=no_check_ip
-#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7e20e8c-420e-46aa-8578-a0d029f91ae1/dbc05qs-e18d9725-83e4-40fd-80b0-020c003e70d2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3ZTIwZThjLTQyMGUtNDZhYS04NTc4LWEwZDAyOWY5MWFlMVwvZGJjMDVxcy1lMThkOTcyNS04M2U0LTQwZmQtODBiMC0wMjBjMDAzZTcwZDIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7Ue-XD2SFThw5wfTb9KT5zKDGSXXkccr3_JjqRjtpao" group-title="",CINEMARATON
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cinemaraton HD
 https://p11.magicplaces.eu/cinemaratonsd/video.m3u8?token=d94fffb1361052f578c23131b89db03d1992edac-8aa1df89efb4223ba07d891aad30b91e-1743298787-1743287987&remote=no_check_ip
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",DIVA HD
+https://p11.magicplaces.eu/diva/video.m3u8?token=ae68ee94d49c7a7a93f8d05af8c64c820c8e1e16-bdc4936e5a146d8284434de108a47d76-1743299428-1743288628&remote=no_check_ip
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",EPIC DRAMA
+https://p11.magicplaces.eu/epicdramasd/video.m3u8?token=d921fcf6ef8a68a4b387300e3ac91a3766fd920c-8fd107e78ed78f24ca5935c3aa41de73-1743299458-1743288658&remote=no_check_ip
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",FILM CAFE
+https://p11.magicplaces.eu/filmcafesd/video.m3u8?token=72c7ff3749f6fbe5db4778f091ed820f62c108b2-2c20ea0d2bce7eeb09e74bc814f10eee-1743299493-1743288693&remote=no_check_ip
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",FILM NOW
+https://p13.magicplaces.eu/filmnow/video.m3u8?token=e95e0843e295b7e5bf547b21bdfcf9be24fdf426-2cbc64602507a56bbbd241e49d0af23f-1743299518-1743288718&remote=no_check_ip
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",PRIMA COMEDY
+https://p11.magicplaces.eu/primacomedysd/video.m3u8?token=9680abbee1faa273ac5aa267300b15763f31f076-a29f2bed12a3d9c0fea6e5cafb5ac333-1743302114-1743291314&remote=no_check_ip
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",PRO CINEMA
+https://p11.magicplaces.eu/procinemasd/video.m3u8?token=436b3af223e1ddb2c027e33c28c881306a352378-921e08383e13f92d791009316bad9e83-1743302151-1743291351&remote=no_check_ip
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Warner TV
+https://p11.magicplaces.eu/warner/video.m3u8?token=a3c76b738253c4d75246cbf073a606ed413339d9-8cafa5ecde78c6ae4ea2c16e47a61008-1743302170-1743291370&remote=no_check_ip
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AMC HD
+https://p11.magicplaces.eu/amcsd/video.m3u8?token=07679d5c19bac4342625d0bcf386b3a112265f92-a76c746d6ceb30de3934572ec9f02f50-1743302225-1743291425&remote=no_check_ip
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",COMEDY CENTRAL RO
+https://p11.magicplaces.eu/comedycentralsd/video.m3u8?token=19e9700d634b441a440873c01277ffc3ccd115ac-20d2a6a546392ed29a414023325ef2c4-1743302255-1743291455&remote=no_check_ip
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Acasă Gold HD
+https://p11.magicplaces.eu/acasagold/video.m3u8?token=a2966586cc257e391d3c077a0de6b3fe21d69a3e-b8cb65bd41d3915b13b8a7f988d1257d-1743302287-1743291487&remote=no_check_ip
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Acasă TV HD
+https://p11.magicplaces.eu/acasahd/video.m3u8?token=7567d1bd5972580def8e4037ca72516c39dc9d26-b957c5bffba1aac9a579967f15a075ac-1743302328-1743291528&remote=no_check_ip
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",KANAL D2
+https://p11.magicplaces.eu/kanald2hd/video.m3u8?token=8d2602c01df44718ceb5f144db99e26091c400b5-1c843c365f15a0253dfdfa1745a5b05b-1743302350-1743291550&remote=no_check_ip
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",CARTOON NETWORK
+https://p11.magicplaces.eu/cartoonnetworksd/video.m3u8?token=de93f63bf00900758689916336adccb2b438a8a5-e6266e480843bed69dc8440dd806e541-1743302386-1743291586&remote=no_check_ip
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",DISNEY CHANNEL
+https://p11.magicplaces.eu/disneychannelsd/video.m3u8?token=5c0e73ecee95dde2baea08db3ed986e0562cf564-74b16c217a695d448c9c35c4ecaa4203-1743302407-1743291607&remote=no_check_ip
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",MINIMAX
+https://p11.magicplaces.eu/minimax/video.m3u8?token=d48d68cf590fae6c339412749b7ebfe642a10d65-da8437aa85c2e8c62f1f30e58d591ef7-1743302549-1743291749&remote=no_check_ip
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NICKTOONS
+https://p11.magicplaces.eu/nicktoonssd/video.m3u8?token=1bd32cfd93defb23320cdd0bc566b1c45d24a52a-c86b7e5b8fbdcb4acb052d0f6013e519-1743302577-1743291777&remote=no_check_ip
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NICKOLODEON
+https://p11.magicplaces.eu/nickelodeonsd/video.m3u8?token=022a43408c0dacaf36f78b1de9a64e6c5baea6c6-f23d0b12fc06c868377077b05e42d687-1743302595-1743291795&remote=no_check_ip
